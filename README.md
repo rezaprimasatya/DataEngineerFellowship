@@ -24,12 +24,12 @@
 
 Goal: Structuring data into a Data Warehouse
 
-* Data warehouse (BigQuery) (25 minutes)
+* Data warehouse (BigQuery)
     * What is a data warehouse solution
-    * What is big query, why is it so fast, Cost of BQ,  (5 min)
-    * Partitoning and clustering, Automatic re-clustering (10 min)
-    * Pointing to a location in google storage (5 min)
-    * Loading data to big query & PG (10 min) -- using Airflow operator?
+    * What is big query, why is it so fast, Cost of BQ,
+    * Partitoning and clustering, Automatic re-clustering
+    * Pointing to a location in google storage
+    * Loading data to big query & PG -- using Airflow operator?
     * BQ best practices
     * Misc: BQ Geo location, BQ ML 
     * Alternatives (Snowflake/Redshift)
