@@ -92,7 +92,7 @@ Duration: 1 weeks
 ## Overview
 
 ### Architecture diagram
-<img src="images/architecture/arch_1.jpg"/>
+<img src="arch_1.jpg"/>
 
 ### Technologies
 * *Google Cloud Platform (GCP)*: Cloud-based auto-scaling platform by Google
